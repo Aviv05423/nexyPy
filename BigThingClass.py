@@ -24,6 +24,6 @@ class BigCat(BigThing):
 
 
 if __name__ == '__main__':
-        cutie  = BigCat("mitzy", 22)
+        cutie = BigCat("mitzy", 22)
 
         print(cutie.size())

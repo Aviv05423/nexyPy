@@ -1,3 +1,5 @@
+from colorClass import colorPrint
+
 
 class Animal:
 
